@@ -1,0 +1,5 @@
+**************************************
+[1] Read TinySQL Queries from File
+[2] Read TinySQL Query from Command Prompt
+[3] Exit
+>> Please Enter an Option (number): 
